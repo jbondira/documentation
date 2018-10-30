@@ -32,7 +32,7 @@ But appanently, you can't do outline numbering. We'll investigate later to confi
 
 Let's try links now.
 
-[UPMC](https://www.upmc.edu)
+[UPMC](https://www.upmc.com)
 
 OK, that was pretty easy. Text in square brackets display, and then you put the URL in parenthesis. There are several other ways to do links, but I won't do them all right now.
 
