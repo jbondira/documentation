@@ -10,7 +10,7 @@ This is some text that pertains to my 1st topic. I feel very emphatic about *ita
 
 This is some text that pertains to my 2nd topic. in this topic, I'm going to include aome lists.
 
-###Bulleted lists
+### Bulleted lists
 
 Here is a bulleted list:
 
@@ -19,5 +19,10 @@ Here is a bulleted list:
    * This one is nested
    * And this one too
 
+### Ordered list
 
+Here is an ordered, or numbered list:
+
+1. The first item in this list is numbered one.
+2. And another one. Let's see what happens when the text exceeds one line--will it indent when it goes to another line? We'll find out pretty soon; and yes, it does line up with the 1st char after the number and period.
 
